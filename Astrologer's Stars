@@ -8,3 +8,6 @@ elif bool == 0:
       print("*" * i)
 else:
     print(" Please, Enter only 1 and 0 for ascending and descending pattern respectivey")
+
+
+.
